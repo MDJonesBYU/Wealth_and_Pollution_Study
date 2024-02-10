@@ -1,10 +1,6 @@
 Purpose: 
 This project uses USDA, EPA, and Redfin datasets to identify correlative trends between Carbon Monoxide pollution levels in the United States and regional wealth indicators (like income and property value). 
 
-Installation: 
-To duplicate results, the user should maintain the following installation(s) on their local machine: 
-
-
 Agreement to Terms of Use and Copyright: 
 By citing, using, distributing, or downloading this work (in part or in whole) you agree to adhere to the terms of use, defined in the "Terms of Use" file. You also agree
 to honor copyright protections associated with this work. 
